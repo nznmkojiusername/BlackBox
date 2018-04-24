@@ -1,3 +1,3 @@
 ## BlackBox
-The Box documentation... /n
+The Box documentation... \n
 authors us
